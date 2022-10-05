@@ -9,4 +9,4 @@
 * JavaScript
 
 ## Live Project
-[PalindromeBirthday](https://palindromebirthdy.netlify.app/)
+[PalindromeBirthday](https://incredible-speculoos-53f5bcm13.netlify.app/)
